@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Bedrock Debug Stick | BP",
+    "description": "In-game block & entity state inspection, block permutation rotator, and stick debugging tool for Minecraft Bedrock",
+    "uuid": "21f670fc-3e8d-4b69-bcbe-4aa901847e96",
+    "version": [
+      0,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "70967aad-512f-4d6d-88f9-75ad0be16c53",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ]
+}
