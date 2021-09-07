@@ -7,3 +7,5 @@
 // Build-Trace #3: WIP
 
 // Build-Trace #4: Vanilla-Data Block-Zustände Mapping eingebunden
+
+// Build-Trace #5: Actionbar Debug Tick-Listener implementiert
