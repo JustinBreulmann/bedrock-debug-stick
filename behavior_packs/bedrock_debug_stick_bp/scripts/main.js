@@ -17,3 +17,5 @@
 // Build-Trace #8: min_engine_version auf 1.18.0 angehoben
 
 // Build-Trace #9: mit mehreren Spielern getestet
+
+// Build-Trace #10: Blockabbau bei Benutzung des Debug-Sticks verhindert
