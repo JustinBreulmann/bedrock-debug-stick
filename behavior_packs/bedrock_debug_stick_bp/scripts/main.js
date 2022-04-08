@@ -19,3 +19,5 @@
 // Build-Trace #9: mit mehreren Spielern getestet
 
 // Build-Trace #10: Blockabbau bei Benutzung des Debug-Sticks verhindert
+
+// Build-Trace #11: Formatierung und Kommentare angepasst
