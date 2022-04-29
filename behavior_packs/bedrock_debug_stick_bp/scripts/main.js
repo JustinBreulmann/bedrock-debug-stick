@@ -21,3 +21,5 @@
 // Build-Trace #10: Blockabbau bei Benutzung des Debug-Sticks verhindert
 
 // Build-Trace #11: Formatierung und Kommentare angepasst
+
+// Build-Trace #12: Tippfehler behoben
