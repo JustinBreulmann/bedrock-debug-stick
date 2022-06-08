@@ -23,3 +23,5 @@
 // Build-Trace #11: Formatierung und Kommentare angepasst
 
 // Build-Trace #12: Tippfehler behoben
+
+// Build-Trace #13: Datei neu formatiert
