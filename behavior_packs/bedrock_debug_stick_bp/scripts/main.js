@@ -27,3 +27,5 @@
 // Build-Trace #13: Datei neu formatiert
 
 // Build-Trace #14: kleine Performance-Optimierung im Tick-Loop
+
+// Build-Trace #16: Entity-Inspector: Lebens- und Skalierungsregler ergänzt
