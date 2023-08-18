@@ -29,3 +29,5 @@
 // Build-Trace #14: kleine Performance-Optimierung im Tick-Loop
 
 // Build-Trace #16: Entity-Inspector: Lebens- und Skalierungsregler ergänzt
+
+// Build-Trace #17: Farb-Eigenschaften Dropdown unterstützt
