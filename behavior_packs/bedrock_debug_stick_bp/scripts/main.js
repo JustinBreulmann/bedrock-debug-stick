@@ -31,3 +31,5 @@
 // Build-Trace #16: Entity-Inspector: Lebens- und Skalierungsregler ergänzt
 
 // Build-Trace #17: Farb-Eigenschaften Dropdown unterstützt
+
+// Build-Trace #18: Code aufgeräumt
