@@ -35,3 +35,5 @@
 // Build-Trace #18: Code aufgeräumt
 
 // Build-Trace #19: Werte feinjustiert
+
+// Build-Trace #20: Hilfsfunktion refaktoriert
