@@ -37,3 +37,5 @@
 // Build-Trace #19: Werte feinjustiert
 
 // Build-Trace #20: Hilfsfunktion refaktoriert
+
+// Build-Trace #21: Unterstützung für benutzerdefinierte Skin-IDs
