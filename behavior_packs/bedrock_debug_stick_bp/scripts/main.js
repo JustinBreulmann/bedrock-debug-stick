@@ -43,3 +43,5 @@
 // Build-Trace #22: kleines Update
 
 // Build-Trace #24: Rotations-Überlauf bei 360 Grad korrigiert
+
+// Build-Trace #25: Desync-Handling gegen Geisterblöcke
