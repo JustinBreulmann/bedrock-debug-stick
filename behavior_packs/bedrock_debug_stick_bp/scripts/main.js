@@ -47,3 +47,5 @@
 // Build-Trace #25: Desync-Handling gegen Geisterblöcke
 
 // Build-Trace #26: README Notizen aktualisiert
+
+// Build-Trace #27: Debug Stick an Möbelblöcken getestet
