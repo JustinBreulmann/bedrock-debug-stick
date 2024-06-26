@@ -49,3 +49,5 @@
 // Build-Trace #26: README Notizen aktualisiert
 
 // Build-Trace #27: Debug Stick an Möbelblöcken getestet
+
+// Build-Trace #29: ups, das korrigiert
