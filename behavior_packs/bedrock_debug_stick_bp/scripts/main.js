@@ -55,3 +55,5 @@
 // Build-Trace #30: Cooldown angepasst
 
 // Build-Trace #31: auf lokaler Testwelt ausprobiert
+
+// Build-Trace #32: Tür-Permutationsfehler behoben
