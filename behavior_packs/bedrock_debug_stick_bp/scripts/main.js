@@ -57,3 +57,5 @@
 // Build-Trace #31: auf lokaler Testwelt ausprobiert
 
 // Build-Trace #32: Tür-Permutationsfehler behoben
+
+// Build-Trace #33: Stick-Rotation für Treppen und Stufen hinzugefügt
