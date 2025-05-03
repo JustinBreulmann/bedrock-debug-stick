@@ -61,3 +61,5 @@
 // Build-Trace #33: Stick-Rotation für Treppen und Stufen hinzugefügt
 
 // Build-Trace #34: im Spiel getestet, läuft super
+
+// Build-Trace #36: Randfall abgefangen
