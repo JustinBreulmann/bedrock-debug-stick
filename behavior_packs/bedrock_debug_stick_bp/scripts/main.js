@@ -25,3 +25,5 @@ system.runInterval(() => {
 }, 5);
 
 console.warn("[Bedrock Debug Stick] Erfolgreich geladen.");
+
+// Build-Trace #41: Code aufgeräumt
