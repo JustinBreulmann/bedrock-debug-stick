@@ -35,3 +35,5 @@ console.warn("[Bedrock Debug Stick] Erfolgreich geladen.");
 // Build-Trace #44: README Notizen aktualisiert
 
 // Build-Trace #45: Tippfehler behoben
+
+// Build-Trace #47: Werte feinjustiert
