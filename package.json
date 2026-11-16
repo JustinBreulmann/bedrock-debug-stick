@@ -1,6 +1,6 @@
 {
   "name": "bedrock-debug-stick",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0",
   "description": "In-game block & entity state inspection, block permutation rotator, and stick debugging tool for Minecraft Bedrock",
   "author": "Justin Breulmann <jb824851@fh-muenster.de>",
   "license": "MIT",
